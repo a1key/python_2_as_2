@@ -18,4 +18,4 @@
 
 # Examples
 
-```You may collet information by writing it```
+```You may collect information by writing it```
